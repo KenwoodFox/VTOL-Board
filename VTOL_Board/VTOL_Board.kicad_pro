@@ -333,7 +333,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "PendulumController.kicad_pro",
+    "filename": "VTOL_Board.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -414,10 +414,6 @@
     [
       "56a36285-5fb6-4ce5-a89e-a1f5713a7d15",
       ""
-    ],
-    [
-      "4c5d1f0c-71b8-4a0e-888c-794bf6e4c7a4",
-      "MCU"
     ],
     [
       "ddccc170-e5f2-4630-b82e-7e46ab8f3eab",
