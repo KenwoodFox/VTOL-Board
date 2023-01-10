@@ -5,7 +5,7 @@
   (paper "A4")
 
   (title_block
-    (title "Inverted Pendulum Controller")
+    (title "VTOL Board")
     (date "${ISSUE}")
     (rev "${REVISION}")
     (company "SNHU")

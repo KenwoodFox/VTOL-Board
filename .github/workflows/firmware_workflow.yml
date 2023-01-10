@@ -90,4 +90,4 @@ jobs:
           webhook_id: ${{ secrets.WEBHOOK_ID }}
           webhook_token: ${{ secrets.WEBHOOK_TOKEN }}
           file: "firmware.hex"
-          args: "New firmware for pendulum board!"
+          args: "New firmware for vtol board!"
